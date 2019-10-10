@@ -2575,9 +2575,9 @@ Wire Wire Line
 	850  1450 850  1100
 Text GLabel 8250 1950 2    50   Input ~ 0
 A2
-Text GLabel 6150 1100 1    50   Input ~ 0
-A1
 Text GLabel 5750 1100 1    50   Input ~ 0
+A1
+Text GLabel 6150 1100 1    50   Input ~ 0
 A0
 Text GLabel 6500 1100 1    50   Input ~ 0
 B8
