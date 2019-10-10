@@ -1841,10 +1841,10 @@ F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 1500 6000 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Diode:1N4148W D53
+L Diode:1N4148W D55
 U 1 1 5DA675DF
 P 2700 6000
-F 0 "D53" V 2746 5920 50  0000 R CNN
+F 0 "D55" V 2746 5920 50  0000 R CNN
 F 1 "1N4148W" V 2655 5920 50  0000 R CNN
 F 2 "Diodes_SMD:D_SOD-123" H 2700 5825 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 2700 6000 50  0001 C CNN
@@ -2118,8 +2118,6 @@ Connection ~ 1700 3150
 Wire Wire Line
 	1700 4000 1700 4800
 Connection ~ 1700 4000
-Wire Wire Line
-	1700 1450 2100 1450
 Connection ~ 1700 4800
 Wire Wire Line
 	1700 4800 1700 5650
@@ -2559,60 +2557,54 @@ Wire Wire Line
 Connection ~ 7700 6150
 Wire Wire Line
 	7700 6150 7250 6150
-Text GLabel 8250 1950 2    50   Input ~ 0
+Text GLabel 7450 1100 1    50   Input ~ 0
 A9
-Text GLabel 8250 3650 2    50   Input ~ 0
+Text GLabel 7900 1100 1    50   Input ~ 0
 B7
-Text GLabel 8250 2800 2    50   Input ~ 0
+Text GLabel 6950 1100 1    50   Input ~ 0
 A10
-Text GLabel 8250 4500 2    50   Input ~ 0
+Text GLabel 8250 2800 2    50   Input ~ 0
 B6
-Text GLabel 8200 5300 2    50   Input ~ 0
-B5
-Text GLabel 8250 6150 2    50   Input ~ 0
-B4
+Text GLabel 8250 3650 2    50   Input ~ 0
+B9
 Connection ~ 1300 1450
 Wire Wire Line
 	1300 1100 1300 1450
 Connection ~ 850  1450
 Wire Wire Line
 	850  1450 850  1100
-Text GLabel 7900 1100 1    50   Input ~ 0
+Text GLabel 8250 1950 2    50   Input ~ 0
 A2
-Text GLabel 7450 1100 1    50   Input ~ 0
+Text GLabel 6150 1100 1    50   Input ~ 0
 A1
-Text GLabel 6950 1100 1    50   Input ~ 0
+Text GLabel 5750 1100 1    50   Input ~ 0
 A0
 Text GLabel 6500 1100 1    50   Input ~ 0
 B8
-Text GLabel 6150 1100 1    50   Input ~ 0
+Text GLabel 850  1100 1    50   Input ~ 0
 B13
-Text GLabel 5750 1100 1    50   Input ~ 0
+Text GLabel 1300 1100 1    50   Input ~ 0
 B14
-Text GLabel 5350 1100 1    50   Input ~ 0
+Text GLabel 1700 1100 1    50   Input ~ 0
 B15
-Text GLabel 4950 1100 1    50   Input ~ 0
-B9
-Text GLabel 4550 1100 1    50   Input ~ 0
+Text GLabel 8250 4500 2    50   Input ~ 0
+A15
+Text GLabel 2100 1100 1    50   Input ~ 0
 B10
-Text GLabel 4100 1100 1    50   Input ~ 0
+Text GLabel 2500 1100 1    50   Input ~ 0
 B11
-Text GLabel 3700 1100 1    50   Input ~ 0
+Text GLabel 2900 1100 1    50   Input ~ 0
 B12
 Text GLabel 3250 1100 1    50   Input ~ 0
 A14
-Text GLabel 2900 1100 1    50   Input ~ 0
+Text GLabel 3700 1100 1    50   Input ~ 0
 A13
-Text GLabel 2500 1100 1    50   Input ~ 0
-A15
-Text GLabel 2100 1100 1    50   Input ~ 0
+Text GLabel 8200 5300 2    50   Input ~ 0
 A8
-Text GLabel 1700 1100 1    50   Input ~ 0
-A7
-Text GLabel 1300 1100 1    50   Input ~ 0
-A6
-Text GLabel 850  1100 1    50   Input ~ 0
-A5
+Text GLabel 5350 1100 1    50   Input ~ 0
+B1
+Text GLabel 4950 1100 1    50   Input ~ 0
+B2
 $Comp
 L power:+3.3V #PWR0101
 U 1 1 5DC24134
@@ -2745,4 +2737,10 @@ Wire Wire Line
 	7250 5300 5550 5300
 Connection ~ 7250 5300
 Connection ~ 5550 5300
+Text GLabel 4550 1100 1    50   Input ~ 0
+B3
+Text GLabel 4100 1100 1    50   Input ~ 0
+B4
+Text GLabel 8250 6150 2    50   Input ~ 0
+A7
 $EndSCHEMATC

@@ -675,10 +675,10 @@ F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 4350 2650 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Diode:1N4148W D1A
+L Diode:1N4148W D1A1
 U 1 1 5DA296D0
 P 4750 2650
-F 0 "D1A" V 4796 2570 50  0000 R CNN
+F 0 "D1A1" V 4796 2570 50  0000 R CNN
 F 1 "1N4148W" V 4705 2570 50  0000 R CNN
 F 2 "Diodes_SMD:D_SOD-123" H 4750 2475 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 4750 2650 50  0001 C CNN
@@ -686,10 +686,10 @@ F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 4750 2650 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Diode:1N4148W D1B
+L Diode:1N4148W D1B1
 U 1 1 5DA296D6
 P 5150 2650
-F 0 "D1B" V 5196 2570 50  0000 R CNN
+F 0 "D1B1" V 5196 2570 50  0000 R CNN
 F 1 "1N4148W" V 5105 2570 50  0000 R CNN
 F 2 "Diodes_SMD:D_SOD-123" H 5150 2475 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 5150 2650 50  0001 C CNN
@@ -697,10 +697,10 @@ F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 5150 2650 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Diode:1N4148W D1C
+L Diode:1N4148W D1C1
 U 1 1 5DA296DC
 P 5550 2650
-F 0 "D1C" V 5596 2570 50  0000 R CNN
+F 0 "D1C1" V 5596 2570 50  0000 R CNN
 F 1 "1N4148W" V 5505 2570 50  0000 R CNN
 F 2 "Diodes_SMD:D_SOD-123" H 5550 2475 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 5550 2650 50  0001 C CNN
@@ -708,10 +708,10 @@ F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 5550 2650 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Diode:1N4148W D1D
+L Diode:1N4148W D1D1
 U 1 1 5DA296E2
 P 5950 2650
-F 0 "D1D" V 5996 2570 50  0000 R CNN
+F 0 "D1D1" V 5996 2570 50  0000 R CNN
 F 1 "1N4148W" V 5905 2570 50  0000 R CNN
 F 2 "Diodes_SMD:D_SOD-123" H 5950 2475 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 5950 2650 50  0001 C CNN
@@ -719,10 +719,10 @@ F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 5950 2650 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Diode:1N4148W D1E
+L Diode:1N4148W D1E1
 U 1 1 5DA296E8
 P 6300 2650
-F 0 "D1E" V 6346 2570 50  0000 R CNN
+F 0 "D1E1" V 6346 2570 50  0000 R CNN
 F 1 "1N4148W" V 6255 2570 50  0000 R CNN
 F 2 "Diodes_SMD:D_SOD-123" H 6300 2475 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 6300 2650 50  0001 C CNN
@@ -730,10 +730,10 @@ F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 6300 2650 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Diode:1N4148W D1F
+L Diode:1N4148W D1F1
 U 1 1 5DA296EE
 P 6750 2650
-F 0 "D1F" V 6796 2570 50  0000 R CNN
+F 0 "D1F1" V 6796 2570 50  0000 R CNN
 F 1 "1N4148W" V 6705 2570 50  0000 R CNN
 F 2 "Diodes_SMD:D_SOD-123" H 6750 2475 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 6750 2650 50  0001 C CNN
@@ -763,10 +763,10 @@ F 3 "" H 7125 2325 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Diode:1N4148W D1G
+L Diode:1N4148W D1G1
 U 1 1 5DA29700
 P 7250 2650
-F 0 "D1G" V 7296 2570 50  0000 R CNN
+F 0 "D1G1" V 7296 2570 50  0000 R CNN
 F 1 "1N4148W" V 7205 2570 50  0000 R CNN
 F 2 "Diodes_SMD:D_SOD-123" H 7250 2475 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 7250 2650 50  0001 C CNN
@@ -774,10 +774,10 @@ F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 7250 2650 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Diode:1N4148W D1H
+L Diode:1N4148W D1H1
 U 1 1 5DA29706
 P 7700 2650
-F 0 "D1H" V 7746 2570 50  0000 R CNN
+F 0 "D1H1" V 7746 2570 50  0000 R CNN
 F 1 "1N4148W" V 7655 2570 50  0000 R CNN
 F 2 "Diodes_SMD:D_SOD-123" H 7700 2475 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 7700 2650 50  0001 C CNN
@@ -1060,10 +1060,10 @@ F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 4350 3500 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Diode:1N4148W D2A
+L Diode:1N4148W D2A1
 U 1 1 5DA3E97F
 P 4750 3500
-F 0 "D2A" V 4796 3420 50  0000 R CNN
+F 0 "D2A1" V 4796 3420 50  0000 R CNN
 F 1 "1N4148W" V 4705 3420 50  0000 R CNN
 F 2 "Diodes_SMD:D_SOD-123" H 4750 3325 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 4750 3500 50  0001 C CNN
@@ -1071,10 +1071,10 @@ F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 4750 3500 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Diode:1N4148W D2B
+L Diode:1N4148W D2B1
 U 1 1 5DA3E985
 P 5150 3500
-F 0 "D2B" V 5196 3420 50  0000 R CNN
+F 0 "D2B1" V 5196 3420 50  0000 R CNN
 F 1 "1N4148W" V 5105 3420 50  0000 R CNN
 F 2 "Diodes_SMD:D_SOD-123" H 5150 3325 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 5150 3500 50  0001 C CNN
@@ -1082,10 +1082,10 @@ F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 5150 3500 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Diode:1N4148W D2C
+L Diode:1N4148W D2C1
 U 1 1 5DA3E98B
 P 5550 3500
-F 0 "D2C" V 5596 3420 50  0000 R CNN
+F 0 "D2C1" V 5596 3420 50  0000 R CNN
 F 1 "1N4148W" V 5505 3420 50  0000 R CNN
 F 2 "Diodes_SMD:D_SOD-123" H 5550 3325 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 5550 3500 50  0001 C CNN
@@ -1093,10 +1093,10 @@ F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 5550 3500 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Diode:1N4148W D2D
+L Diode:1N4148W D2D1
 U 1 1 5DA3E991
 P 5950 3500
-F 0 "D2D" V 5996 3420 50  0000 R CNN
+F 0 "D2D1" V 5996 3420 50  0000 R CNN
 F 1 "1N4148W" V 5905 3420 50  0000 R CNN
 F 2 "Diodes_SMD:D_SOD-123" H 5950 3325 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 5950 3500 50  0001 C CNN
@@ -1104,10 +1104,10 @@ F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 5950 3500 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Diode:1N4148W D2F
+L Diode:1N4148W D2F1
 U 1 1 5DA3E99D
 P 6750 3500
-F 0 "D2F" V 6796 3420 50  0000 R CNN
+F 0 "D2F1" V 6796 3420 50  0000 R CNN
 F 1 "1N4148W" V 6705 3420 50  0000 R CNN
 F 2 "Diodes_SMD:D_SOD-123" H 6750 3325 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 6750 3500 50  0001 C CNN
@@ -1137,10 +1137,10 @@ F 3 "" H 7125 3175 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Diode:1N4148W D2G
+L Diode:1N4148W D2G1
 U 1 1 5DA3E9AF
 P 7250 3500
-F 0 "D2G" V 7296 3420 50  0000 R CNN
+F 0 "D2G1" V 7296 3420 50  0000 R CNN
 F 1 "1N4148W" V 7205 3420 50  0000 R CNN
 F 2 "Diodes_SMD:D_SOD-123" H 7250 3325 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 7250 3500 50  0001 C CNN
@@ -1148,10 +1148,10 @@ F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 7250 3500 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Diode:1N4148W D2H
+L Diode:1N4148W D2H1
 U 1 1 5DA3E9B5
 P 7700 3500
-F 0 "D2H" V 7746 3420 50  0000 R CNN
+F 0 "D2H1" V 7746 3420 50  0000 R CNN
 F 1 "1N4148W" V 7655 3420 50  0000 R CNN
 F 2 "Diodes_SMD:D_SOD-123" H 7700 3325 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 7700 3500 50  0001 C CNN
@@ -1401,10 +1401,10 @@ F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 4350 4350 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Diode:1N4148W D3A
+L Diode:1N4148W D3A1
 U 1 1 5DA48F0F
 P 4750 4350
-F 0 "D3A" V 4796 4270 50  0000 R CNN
+F 0 "D3A1" V 4796 4270 50  0000 R CNN
 F 1 "1N4148W" V 4705 4270 50  0000 R CNN
 F 2 "Diodes_SMD:D_SOD-123" H 4750 4175 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 4750 4350 50  0001 C CNN
@@ -1412,10 +1412,10 @@ F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 4750 4350 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Diode:1N4148W D3B
+L Diode:1N4148W D3B1
 U 1 1 5DA48F15
 P 5150 4350
-F 0 "D3B" V 5196 4270 50  0000 R CNN
+F 0 "D3B1" V 5196 4270 50  0000 R CNN
 F 1 "1N4148W" V 5105 4270 50  0000 R CNN
 F 2 "Diodes_SMD:D_SOD-123" H 5150 4175 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 5150 4350 50  0001 C CNN
@@ -1423,10 +1423,10 @@ F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 5150 4350 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Diode:1N4148W D3C
+L Diode:1N4148W D3C1
 U 1 1 5DA48F1B
 P 5550 4350
-F 0 "D3C" V 5596 4270 50  0000 R CNN
+F 0 "D3C1" V 5596 4270 50  0000 R CNN
 F 1 "1N4148W" V 5505 4270 50  0000 R CNN
 F 2 "Diodes_SMD:D_SOD-123" H 5550 4175 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 5550 4350 50  0001 C CNN
@@ -1434,10 +1434,10 @@ F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 5550 4350 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Diode:1N4148W D3F
+L Diode:1N4148W D3F1
 U 1 1 5DA48F2D
 P 6750 4350
-F 0 "D3F" V 6796 4270 50  0000 R CNN
+F 0 "D3F1" V 6796 4270 50  0000 R CNN
 F 1 "1N4148W" V 6705 4270 50  0000 R CNN
 F 2 "Diodes_SMD:D_SOD-123" H 6750 4175 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 6750 4350 50  0001 C CNN
@@ -1467,10 +1467,10 @@ F 3 "" H 7125 4025 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Diode:1N4148W D3G
+L Diode:1N4148W D3G1
 U 1 1 5DA48F3F
 P 7250 4350
-F 0 "D3G" V 7296 4270 50  0000 R CNN
+F 0 "D3G1" V 7296 4270 50  0000 R CNN
 F 1 "1N4148W" V 7205 4270 50  0000 R CNN
 F 2 "Diodes_SMD:D_SOD-123" H 7250 4175 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 7250 4350 50  0001 C CNN
@@ -1709,10 +1709,10 @@ F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 4350 5150 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Diode:1N4148W D4A
+L Diode:1N4148W D4A1
 U 1 1 5DA569E3
 P 4750 5150
-F 0 "D4A" V 4796 5070 50  0000 R CNN
+F 0 "D4A1" V 4796 5070 50  0000 R CNN
 F 1 "1N4148W" V 4705 5070 50  0000 R CNN
 F 2 "Diodes_SMD:D_SOD-123" H 4750 4975 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 4750 5150 50  0001 C CNN
@@ -1720,10 +1720,10 @@ F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 4750 5150 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Diode:1N4148W D4B
+L Diode:1N4148W D4B1
 U 1 1 5DA569E9
 P 5150 5150
-F 0 "D4B" V 5196 5070 50  0000 R CNN
+F 0 "D4B1" V 5196 5070 50  0000 R CNN
 F 1 "1N4148W" V 5105 5070 50  0000 R CNN
 F 2 "Diodes_SMD:D_SOD-123" H 5150 4975 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 5150 5150 50  0001 C CNN
@@ -1731,10 +1731,10 @@ F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 5150 5150 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Diode:1N4148W D4C
+L Diode:1N4148W D4C1
 U 1 1 5DA569EF
 P 5550 5150
-F 0 "D4C" V 5596 5070 50  0000 R CNN
+F 0 "D4C1" V 5596 5070 50  0000 R CNN
 F 1 "1N4148W" V 5505 5070 50  0000 R CNN
 F 2 "Diodes_SMD:D_SOD-123" H 5550 4975 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 5550 5150 50  0001 C CNN
@@ -1753,10 +1753,10 @@ F 3 "" H 6675 4825 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Diode:1N4148W D4G
+L Diode:1N4148W D4G1
 U 1 1 5DA56A13
 P 7250 5150
-F 0 "D4G" V 7296 5070 50  0000 R CNN
+F 0 "D4G1" V 7296 5070 50  0000 R CNN
 F 1 "1N4148W" V 7205 5070 50  0000 R CNN
 F 2 "Diodes_SMD:D_SOD-123" H 7250 4975 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 7250 5150 50  0001 C CNN
@@ -1841,10 +1841,10 @@ F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 1500 6000 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Diode:1N4148W D53
+L Diode:1N4148W D55
 U 1 1 5DA675DF
 P 2700 6000
-F 0 "D53" V 2746 5920 50  0000 R CNN
+F 0 "D55" V 2746 5920 50  0000 R CNN
 F 1 "1N4148W" V 2655 5920 50  0000 R CNN
 F 2 "Diodes_SMD:D_SOD-123" H 2700 5825 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 2700 6000 50  0001 C CNN
@@ -1918,10 +1918,10 @@ F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 4350 6000 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Diode:1N4148W D5A
+L Diode:1N4148W D5A1
 U 1 1 5DA6762D
 P 4750 6000
-F 0 "D5A" V 4796 5920 50  0000 R CNN
+F 0 "D5A1" V 4796 5920 50  0000 R CNN
 F 1 "1N4148W" V 4705 5920 50  0000 R CNN
 F 2 "Diodes_SMD:D_SOD-123" H 4750 5825 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 4750 6000 50  0001 C CNN
@@ -1929,10 +1929,10 @@ F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 4750 6000 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Diode:1N4148W D5F
+L Diode:1N4148W D5F1
 U 1 1 5DA6764B
 P 6750 6000
-F 0 "D5F" V 6796 5920 50  0000 R CNN
+F 0 "D5F1" V 6796 5920 50  0000 R CNN
 F 1 "1N4148W" V 6705 5920 50  0000 R CNN
 F 2 "Diodes_SMD:D_SOD-123" H 6750 5825 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 6750 6000 50  0001 C CNN
@@ -1962,10 +1962,10 @@ F 3 "" H 7125 5675 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Diode:1N4148W D5G
+L Diode:1N4148W D5G1
 U 1 1 5DA6765D
 P 7250 6000
-F 0 "D5G" V 7296 5920 50  0000 R CNN
+F 0 "D5G1" V 7296 5920 50  0000 R CNN
 F 1 "1N4148W" V 7205 5920 50  0000 R CNN
 F 2 "Diodes_SMD:D_SOD-123" H 7250 5825 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 7250 6000 50  0001 C CNN
@@ -1973,10 +1973,10 @@ F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 7250 6000 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Diode:1N4148W D5H
+L Diode:1N4148W D5H1
 U 1 1 5DA67663
 P 7700 6000
-F 0 "D5H" V 7746 5920 50  0000 R CNN
+F 0 "D5H1" V 7746 5920 50  0000 R CNN
 F 1 "1N4148W" V 7655 5920 50  0000 R CNN
 F 2 "Diodes_SMD:D_SOD-123" H 7700 5825 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 7700 6000 50  0001 C CNN
@@ -1984,10 +1984,10 @@ F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 7700 6000 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Diode:1N4148W D3H
+L Diode:1N4148W D3H1
 U 1 1 5DA783C3
 P 7700 4350
-F 0 "D3H" V 7746 4270 50  0000 R CNN
+F 0 "D3H1" V 7746 4270 50  0000 R CNN
 F 1 "1N4148W" V 7655 4270 50  0000 R CNN
 F 2 "Diodes_SMD:D_SOD-123" H 7700 4175 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 7700 4350 50  0001 C CNN
@@ -2118,8 +2118,6 @@ Connection ~ 1700 3150
 Wire Wire Line
 	1700 4000 1700 4800
 Connection ~ 1700 4000
-Wire Wire Line
-	1700 1450 2100 1450
 Connection ~ 1700 4800
 Wire Wire Line
 	1700 4800 1700 5650
@@ -2559,60 +2557,54 @@ Wire Wire Line
 Connection ~ 7700 6150
 Wire Wire Line
 	7700 6150 7250 6150
-Text GLabel 8250 1950 2    50   Input ~ 0
+Text GLabel 7450 1100 1    50   Input ~ 0
 A9
-Text GLabel 8250 3650 2    50   Input ~ 0
+Text GLabel 7900 1100 1    50   Input ~ 0
 B7
-Text GLabel 8250 2800 2    50   Input ~ 0
+Text GLabel 6950 1100 1    50   Input ~ 0
 A10
-Text GLabel 8250 4500 2    50   Input ~ 0
+Text GLabel 8250 2800 2    50   Input ~ 0
 B6
-Text GLabel 8200 5300 2    50   Input ~ 0
-B5
-Text GLabel 8250 6150 2    50   Input ~ 0
-B4
+Text GLabel 8250 3650 2    50   Input ~ 0
+B9
 Connection ~ 1300 1450
 Wire Wire Line
 	1300 1100 1300 1450
 Connection ~ 850  1450
 Wire Wire Line
 	850  1450 850  1100
-Text GLabel 7900 1100 1    50   Input ~ 0
+Text GLabel 8250 1950 2    50   Input ~ 0
 A2
-Text GLabel 7450 1100 1    50   Input ~ 0
+Text GLabel 6150 1100 1    50   Input ~ 0
 A1
-Text GLabel 6950 1100 1    50   Input ~ 0
-A0
+Text GLabel 5750 1100 1    50   Input ~ 0
+B0
 Text GLabel 6500 1100 1    50   Input ~ 0
 B8
-Text GLabel 6150 1100 1    50   Input ~ 0
+Text GLabel 850  1100 1    50   Input ~ 0
 B13
-Text GLabel 5750 1100 1    50   Input ~ 0
+Text GLabel 1300 1100 1    50   Input ~ 0
 B14
-Text GLabel 5350 1100 1    50   Input ~ 0
+Text GLabel 1700 1100 1    50   Input ~ 0
 B15
-Text GLabel 4950 1100 1    50   Input ~ 0
-B9
-Text GLabel 4550 1100 1    50   Input ~ 0
+Text GLabel 8250 4500 2    50   Input ~ 0
+A15
+Text GLabel 2100 1100 1    50   Input ~ 0
 B10
-Text GLabel 4100 1100 1    50   Input ~ 0
+Text GLabel 2500 1100 1    50   Input ~ 0
 B11
-Text GLabel 3700 1100 1    50   Input ~ 0
+Text GLabel 2900 1100 1    50   Input ~ 0
 B12
 Text GLabel 3250 1100 1    50   Input ~ 0
 A14
-Text GLabel 2900 1100 1    50   Input ~ 0
+Text GLabel 3700 1100 1    50   Input ~ 0
 A13
-Text GLabel 2500 1100 1    50   Input ~ 0
-A15
-Text GLabel 2100 1100 1    50   Input ~ 0
+Text GLabel 8200 5300 2    50   Input ~ 0
 A8
-Text GLabel 1700 1100 1    50   Input ~ 0
-A7
-Text GLabel 1300 1100 1    50   Input ~ 0
-A6
-Text GLabel 850  1100 1    50   Input ~ 0
-A5
+Text GLabel 5350 1100 1    50   Input ~ 0
+B1
+Text GLabel 4950 1100 1    50   Input ~ 0
+B2
 $Comp
 L power:+3.3V #PWR0101
 U 1 1 5DC24134
@@ -2745,4 +2737,10 @@ Wire Wire Line
 	7250 5300 5550 5300
 Connection ~ 7250 5300
 Connection ~ 5550 5300
+Text GLabel 4550 1100 1    50   Input ~ 0
+B3
+Text GLabel 4100 1100 1    50   Input ~ 0
+B4
+Text GLabel 8250 6150 2    50   Input ~ 0
+A7
 $EndSCHEMATC
