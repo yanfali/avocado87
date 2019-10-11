@@ -8499,9 +8499,9 @@
   (segment (start 135.26 52.695) (end 131.445 48.88) (width 0.25) (layer F.Cu) (net 121))
   (segment (start 142.3035 145.7445) (end 142.3035 146.4945) (width 0.25) (layer F.Cu) (net 122))
   (segment (start 137.033 50.922) (end 137.8 50.155) (width 0.25) (layer F.Cu) (net 122))
-  (segment (start 137.033 141.486636) (end 137.033 50.922) (width 0.25) (layer F.Cu) (net 122))
-  (segment (start 142.040864 146.4945) (end 137.033 141.486636) (width 0.25) (layer F.Cu) (net 122))
-  (segment (start 142.3035 146.4945) (end 142.040864 146.4945) (width 0.25) (layer F.Cu) (net 122))
+  (segment (start 137.033 141.1605) (end 137.033 50.922) (width 0.25) (layer F.Cu) (net 122))
+  (segment (start 142.3035 146.431) (end 137.033 141.1605) (width 0.25) (layer F.Cu) (net 122))
+  (segment (start 142.3035 146.4945) (end 142.3035 146.431) (width 0.25) (layer F.Cu) (net 122))
 
   (zone (net 74) (net_name GND) (layer F.Cu) (tstamp 5DA07DCA) (hatch edge 0.508)
     (connect_pads (clearance 0.508))
