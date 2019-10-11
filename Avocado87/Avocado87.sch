@@ -108,7 +108,7 @@ U 1 1 5D9FEED4
 P 650 1800
 F 0 "D0" V 696 1720 50  0000 R CNN
 F 1 "1N4148W" V 605 1720 50  0000 R CNN
-F 2 "Diodes_SMD:D_SOD-123" H 650 1625 50  0001 C CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" H 650 1625 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 650 1800 50  0001 C CNN
 	1    650  1800
 	0    -1   -1   0   
@@ -119,7 +119,7 @@ U 1 1 5DA012A3
 P 1100 1800
 F 0 "D1" V 1146 1720 50  0000 R CNN
 F 1 "1N4148W" V 1055 1720 50  0000 R CNN
-F 2 "Diodes_SMD:D_SOD-123" H 1100 1625 50  0001 C CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" H 1100 1625 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 1100 1800 50  0001 C CNN
 	1    1100 1800
 	0    -1   -1   0   
@@ -130,7 +130,7 @@ U 1 1 5DA0207B
 P 1500 1800
 F 0 "D2" V 1546 1720 50  0000 R CNN
 F 1 "1N4148W" V 1455 1720 50  0000 R CNN
-F 2 "Diodes_SMD:D_SOD-123" H 1500 1625 50  0001 C CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" H 1500 1625 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 1500 1800 50  0001 C CNN
 	1    1500 1800
 	0    -1   -1   0   
@@ -141,7 +141,7 @@ U 1 1 5DA02A52
 P 1900 1800
 F 0 "D3" V 1946 1720 50  0000 R CNN
 F 1 "1N4148W" V 1855 1720 50  0000 R CNN
-F 2 "Diodes_SMD:D_SOD-123" H 1900 1625 50  0001 C CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" H 1900 1625 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 1900 1800 50  0001 C CNN
 	1    1900 1800
 	0    -1   -1   0   
@@ -152,7 +152,7 @@ U 1 1 5DA03D27
 P 2300 1800
 F 0 "D4" V 2346 1720 50  0000 R CNN
 F 1 "1N4148W" V 2255 1720 50  0000 R CNN
-F 2 "Diodes_SMD:D_SOD-123" H 2300 1625 50  0001 C CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" H 2300 1625 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 2300 1800 50  0001 C CNN
 	1    2300 1800
 	0    -1   -1   0   
@@ -163,7 +163,7 @@ U 1 1 5DA04858
 P 2700 1800
 F 0 "D5" V 2746 1720 50  0000 R CNN
 F 1 "1N4148W" V 2655 1720 50  0000 R CNN
-F 2 "Diodes_SMD:D_SOD-123" H 2700 1625 50  0001 C CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" H 2700 1625 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 2700 1800 50  0001 C CNN
 	1    2700 1800
 	0    -1   -1   0   
@@ -174,7 +174,7 @@ U 1 1 5DA05416
 P 3050 1800
 F 0 "D6" V 3096 1720 50  0000 R CNN
 F 1 "1N4148W" V 3005 1720 50  0000 R CNN
-F 2 "Diodes_SMD:D_SOD-123" H 3050 1625 50  0001 C CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" H 3050 1625 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 3050 1800 50  0001 C CNN
 	1    3050 1800
 	0    -1   -1   0   
@@ -185,7 +185,7 @@ U 1 1 5DA05BAF
 P 3500 1800
 F 0 "D7" V 3546 1720 50  0000 R CNN
 F 1 "1N4148W" V 3455 1720 50  0000 R CNN
-F 2 "Diodes_SMD:D_SOD-123" H 3500 1625 50  0001 C CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" H 3500 1625 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 3500 1800 50  0001 C CNN
 	1    3500 1800
 	0    -1   -1   0   
@@ -273,7 +273,7 @@ U 1 1 5DA11CB1
 P 3900 1800
 F 0 "D8" V 3946 1720 50  0000 R CNN
 F 1 "1N4148W" V 3855 1720 50  0000 R CNN
-F 2 "Diodes_SMD:D_SOD-123" H 3900 1625 50  0001 C CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" H 3900 1625 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 3900 1800 50  0001 C CNN
 	1    3900 1800
 	0    -1   -1   0   
@@ -284,7 +284,7 @@ U 1 1 5DA11CB7
 P 4350 1800
 F 0 "D9" V 4396 1720 50  0000 R CNN
 F 1 "1N4148W" V 4305 1720 50  0000 R CNN
-F 2 "Diodes_SMD:D_SOD-123" H 4350 1625 50  0001 C CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" H 4350 1625 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 4350 1800 50  0001 C CNN
 	1    4350 1800
 	0    -1   -1   0   
@@ -295,7 +295,7 @@ U 1 1 5DA11CBD
 P 4750 1800
 F 0 "D0A1" V 4796 1720 50  0000 R CNN
 F 1 "1N4148W" V 4705 1720 50  0000 R CNN
-F 2 "Diodes_SMD:D_SOD-123" H 4750 1625 50  0001 C CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" H 4750 1625 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 4750 1800 50  0001 C CNN
 	1    4750 1800
 	0    -1   -1   0   
@@ -306,7 +306,7 @@ U 1 1 5DA11CC3
 P 5150 1800
 F 0 "D0B1" V 5196 1720 50  0000 R CNN
 F 1 "1N4148W" V 5105 1720 50  0000 R CNN
-F 2 "Diodes_SMD:D_SOD-123" H 5150 1625 50  0001 C CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" H 5150 1625 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 5150 1800 50  0001 C CNN
 	1    5150 1800
 	0    -1   -1   0   
@@ -317,7 +317,7 @@ U 1 1 5DA11CC9
 P 5550 1800
 F 0 "D0C1" V 5596 1720 50  0000 R CNN
 F 1 "1N4148W" V 5505 1720 50  0000 R CNN
-F 2 "Diodes_SMD:D_SOD-123" H 5550 1625 50  0001 C CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" H 5550 1625 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 5550 1800 50  0001 C CNN
 	1    5550 1800
 	0    -1   -1   0   
@@ -328,7 +328,7 @@ U 1 1 5DA11CCF
 P 5950 1800
 F 0 "D0D1" V 5996 1720 50  0000 R CNN
 F 1 "1N4148W" V 5905 1720 50  0000 R CNN
-F 2 "Diodes_SMD:D_SOD-123" H 5950 1625 50  0001 C CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" H 5950 1625 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 5950 1800 50  0001 C CNN
 	1    5950 1800
 	0    -1   -1   0   
@@ -339,7 +339,7 @@ U 1 1 5DA11CDB
 P 6750 1800
 F 0 "D0F1" V 6796 1720 50  0000 R CNN
 F 1 "1N4148W" V 6705 1720 50  0000 R CNN
-F 2 "Diodes_SMD:D_SOD-123" H 6750 1625 50  0001 C CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" H 6750 1625 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 6750 1800 50  0001 C CNN
 	1    6750 1800
 	0    -1   -1   0   
@@ -372,7 +372,7 @@ U 1 1 5DA13347
 P 7250 1800
 F 0 "D0G1" V 7296 1720 50  0000 R CNN
 F 1 "1N4148W" V 7205 1720 50  0000 R CNN
-F 2 "Diodes_SMD:D_SOD-123" H 7250 1625 50  0001 C CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" H 7250 1625 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 7250 1800 50  0001 C CNN
 	1    7250 1800
 	0    -1   -1   0   
@@ -383,7 +383,7 @@ U 1 1 5DA1334D
 P 7700 1800
 F 0 "D0H1" V 7746 1720 50  0000 R CNN
 F 1 "1N4148W" V 7655 1720 50  0000 R CNN
-F 2 "Diodes_SMD:D_SOD-123" H 7700 1625 50  0001 C CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" H 7700 1625 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 7700 1800 50  0001 C CNN
 	1    7700 1800
 	0    -1   -1   0   
@@ -482,7 +482,7 @@ U 1 1 5DA29664
 P 650 2650
 F 0 "D10" V 696 2570 50  0000 R CNN
 F 1 "1N4148W" V 605 2570 50  0000 R CNN
-F 2 "Diodes_SMD:D_SOD-123" H 650 2475 50  0001 C CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" H 650 2475 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 650 2650 50  0001 C CNN
 	1    650  2650
 	0    -1   -1   0   
@@ -493,7 +493,7 @@ U 1 1 5DA2966A
 P 1100 2650
 F 0 "D11" V 1146 2570 50  0000 R CNN
 F 1 "1N4148W" V 1055 2570 50  0000 R CNN
-F 2 "Diodes_SMD:D_SOD-123" H 1100 2475 50  0001 C CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" H 1100 2475 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 1100 2650 50  0001 C CNN
 	1    1100 2650
 	0    -1   -1   0   
@@ -504,7 +504,7 @@ U 1 1 5DA29670
 P 1500 2650
 F 0 "D12" V 1546 2570 50  0000 R CNN
 F 1 "1N4148W" V 1455 2570 50  0000 R CNN
-F 2 "Diodes_SMD:D_SOD-123" H 1500 2475 50  0001 C CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" H 1500 2475 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 1500 2650 50  0001 C CNN
 	1    1500 2650
 	0    -1   -1   0   
@@ -515,7 +515,7 @@ U 1 1 5DA29676
 P 1900 2650
 F 0 "D13" V 1946 2570 50  0000 R CNN
 F 1 "1N4148W" V 1855 2570 50  0000 R CNN
-F 2 "Diodes_SMD:D_SOD-123" H 1900 2475 50  0001 C CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" H 1900 2475 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 1900 2650 50  0001 C CNN
 	1    1900 2650
 	0    -1   -1   0   
@@ -526,7 +526,7 @@ U 1 1 5DA2967C
 P 2300 2650
 F 0 "D14" V 2346 2570 50  0000 R CNN
 F 1 "1N4148W" V 2255 2570 50  0000 R CNN
-F 2 "Diodes_SMD:D_SOD-123" H 2300 2475 50  0001 C CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" H 2300 2475 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 2300 2650 50  0001 C CNN
 	1    2300 2650
 	0    -1   -1   0   
@@ -537,7 +537,7 @@ U 1 1 5DA29682
 P 2700 2650
 F 0 "D15" V 2746 2570 50  0000 R CNN
 F 1 "1N4148W" V 2655 2570 50  0000 R CNN
-F 2 "Diodes_SMD:D_SOD-123" H 2700 2475 50  0001 C CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" H 2700 2475 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 2700 2650 50  0001 C CNN
 	1    2700 2650
 	0    -1   -1   0   
@@ -548,7 +548,7 @@ U 1 1 5DA29688
 P 3050 2650
 F 0 "D16" V 3096 2570 50  0000 R CNN
 F 1 "1N4148W" V 3005 2570 50  0000 R CNN
-F 2 "Diodes_SMD:D_SOD-123" H 3050 2475 50  0001 C CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" H 3050 2475 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 3050 2650 50  0001 C CNN
 	1    3050 2650
 	0    -1   -1   0   
@@ -559,7 +559,7 @@ U 1 1 5DA2968E
 P 3500 2650
 F 0 "D17" V 3546 2570 50  0000 R CNN
 F 1 "1N4148W" V 3455 2570 50  0000 R CNN
-F 2 "Diodes_SMD:D_SOD-123" H 3500 2475 50  0001 C CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" H 3500 2475 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 3500 2650 50  0001 C CNN
 	1    3500 2650
 	0    -1   -1   0   
@@ -658,7 +658,7 @@ U 1 1 5DA296C4
 P 3900 2650
 F 0 "D18" V 3946 2570 50  0000 R CNN
 F 1 "1N4148W" V 3855 2570 50  0000 R CNN
-F 2 "Diodes_SMD:D_SOD-123" H 3900 2475 50  0001 C CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" H 3900 2475 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 3900 2650 50  0001 C CNN
 	1    3900 2650
 	0    -1   -1   0   
@@ -669,7 +669,7 @@ U 1 1 5DA296CA
 P 4350 2650
 F 0 "D19" V 4396 2570 50  0000 R CNN
 F 1 "1N4148W" V 4305 2570 50  0000 R CNN
-F 2 "Diodes_SMD:D_SOD-123" H 4350 2475 50  0001 C CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" H 4350 2475 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 4350 2650 50  0001 C CNN
 	1    4350 2650
 	0    -1   -1   0   
@@ -680,7 +680,7 @@ U 1 1 5DA296D0
 P 4750 2650
 F 0 "D1A1" V 4796 2570 50  0000 R CNN
 F 1 "1N4148W" V 4705 2570 50  0000 R CNN
-F 2 "Diodes_SMD:D_SOD-123" H 4750 2475 50  0001 C CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" H 4750 2475 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 4750 2650 50  0001 C CNN
 	1    4750 2650
 	0    -1   -1   0   
@@ -691,7 +691,7 @@ U 1 1 5DA296D6
 P 5150 2650
 F 0 "D1B1" V 5196 2570 50  0000 R CNN
 F 1 "1N4148W" V 5105 2570 50  0000 R CNN
-F 2 "Diodes_SMD:D_SOD-123" H 5150 2475 50  0001 C CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" H 5150 2475 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 5150 2650 50  0001 C CNN
 	1    5150 2650
 	0    -1   -1   0   
@@ -702,7 +702,7 @@ U 1 1 5DA296DC
 P 5550 2650
 F 0 "D1C1" V 5596 2570 50  0000 R CNN
 F 1 "1N4148W" V 5505 2570 50  0000 R CNN
-F 2 "Diodes_SMD:D_SOD-123" H 5550 2475 50  0001 C CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" H 5550 2475 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 5550 2650 50  0001 C CNN
 	1    5550 2650
 	0    -1   -1   0   
@@ -713,7 +713,7 @@ U 1 1 5DA296E2
 P 5950 2650
 F 0 "D1D1" V 5996 2570 50  0000 R CNN
 F 1 "1N4148W" V 5905 2570 50  0000 R CNN
-F 2 "Diodes_SMD:D_SOD-123" H 5950 2475 50  0001 C CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" H 5950 2475 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 5950 2650 50  0001 C CNN
 	1    5950 2650
 	0    -1   -1   0   
@@ -724,7 +724,7 @@ U 1 1 5DA296E8
 P 6300 2650
 F 0 "D1E1" V 6346 2570 50  0000 R CNN
 F 1 "1N4148W" V 6255 2570 50  0000 R CNN
-F 2 "Diodes_SMD:D_SOD-123" H 6300 2475 50  0001 C CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" H 6300 2475 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 6300 2650 50  0001 C CNN
 	1    6300 2650
 	0    -1   -1   0   
@@ -735,7 +735,7 @@ U 1 1 5DA296EE
 P 6750 2650
 F 0 "D1F1" V 6796 2570 50  0000 R CNN
 F 1 "1N4148W" V 6705 2570 50  0000 R CNN
-F 2 "Diodes_SMD:D_SOD-123" H 6750 2475 50  0001 C CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" H 6750 2475 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 6750 2650 50  0001 C CNN
 	1    6750 2650
 	0    -1   -1   0   
@@ -768,7 +768,7 @@ U 1 1 5DA29700
 P 7250 2650
 F 0 "D1G1" V 7296 2570 50  0000 R CNN
 F 1 "1N4148W" V 7205 2570 50  0000 R CNN
-F 2 "Diodes_SMD:D_SOD-123" H 7250 2475 50  0001 C CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" H 7250 2475 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 7250 2650 50  0001 C CNN
 	1    7250 2650
 	0    -1   -1   0   
@@ -779,7 +779,7 @@ U 1 1 5DA29706
 P 7700 2650
 F 0 "D1H1" V 7746 2570 50  0000 R CNN
 F 1 "1N4148W" V 7655 2570 50  0000 R CNN
-F 2 "Diodes_SMD:D_SOD-123" H 7700 2475 50  0001 C CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" H 7700 2475 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 7700 2650 50  0001 C CNN
 	1    7700 2650
 	0    -1   -1   0   
@@ -878,7 +878,7 @@ U 1 1 5DA3E913
 P 650 3500
 F 0 "D20" V 696 3420 50  0000 R CNN
 F 1 "1N4148W" V 605 3420 50  0000 R CNN
-F 2 "Diodes_SMD:D_SOD-123" H 650 3325 50  0001 C CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" H 650 3325 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 650 3500 50  0001 C CNN
 	1    650  3500
 	0    -1   -1   0   
@@ -889,7 +889,7 @@ U 1 1 5DA3E919
 P 1100 3500
 F 0 "D21" V 1146 3420 50  0000 R CNN
 F 1 "1N4148W" V 1055 3420 50  0000 R CNN
-F 2 "Diodes_SMD:D_SOD-123" H 1100 3325 50  0001 C CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" H 1100 3325 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 1100 3500 50  0001 C CNN
 	1    1100 3500
 	0    -1   -1   0   
@@ -900,7 +900,7 @@ U 1 1 5DA3E91F
 P 1500 3500
 F 0 "D22" V 1546 3420 50  0000 R CNN
 F 1 "1N4148W" V 1455 3420 50  0000 R CNN
-F 2 "Diodes_SMD:D_SOD-123" H 1500 3325 50  0001 C CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" H 1500 3325 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 1500 3500 50  0001 C CNN
 	1    1500 3500
 	0    -1   -1   0   
@@ -911,7 +911,7 @@ U 1 1 5DA3E925
 P 1900 3500
 F 0 "D23" V 1946 3420 50  0000 R CNN
 F 1 "1N4148W" V 1855 3420 50  0000 R CNN
-F 2 "Diodes_SMD:D_SOD-123" H 1900 3325 50  0001 C CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" H 1900 3325 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 1900 3500 50  0001 C CNN
 	1    1900 3500
 	0    -1   -1   0   
@@ -922,7 +922,7 @@ U 1 1 5DA3E92B
 P 2300 3500
 F 0 "D24" V 2346 3420 50  0000 R CNN
 F 1 "1N4148W" V 2255 3420 50  0000 R CNN
-F 2 "Diodes_SMD:D_SOD-123" H 2300 3325 50  0001 C CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" H 2300 3325 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 2300 3500 50  0001 C CNN
 	1    2300 3500
 	0    -1   -1   0   
@@ -933,7 +933,7 @@ U 1 1 5DA3E931
 P 2700 3500
 F 0 "D25" V 2746 3420 50  0000 R CNN
 F 1 "1N4148W" V 2655 3420 50  0000 R CNN
-F 2 "Diodes_SMD:D_SOD-123" H 2700 3325 50  0001 C CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" H 2700 3325 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 2700 3500 50  0001 C CNN
 	1    2700 3500
 	0    -1   -1   0   
@@ -944,7 +944,7 @@ U 1 1 5DA3E937
 P 3050 3500
 F 0 "D26" V 3096 3420 50  0000 R CNN
 F 1 "1N4148W" V 3005 3420 50  0000 R CNN
-F 2 "Diodes_SMD:D_SOD-123" H 3050 3325 50  0001 C CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" H 3050 3325 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 3050 3500 50  0001 C CNN
 	1    3050 3500
 	0    -1   -1   0   
@@ -955,7 +955,7 @@ U 1 1 5DA3E93D
 P 3500 3500
 F 0 "D27" V 3546 3420 50  0000 R CNN
 F 1 "1N4148W" V 3455 3420 50  0000 R CNN
-F 2 "Diodes_SMD:D_SOD-123" H 3500 3325 50  0001 C CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" H 3500 3325 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 3500 3500 50  0001 C CNN
 	1    3500 3500
 	0    -1   -1   0   
@@ -1043,7 +1043,7 @@ U 1 1 5DA3E973
 P 3900 3500
 F 0 "D28" V 3946 3420 50  0000 R CNN
 F 1 "1N4148W" V 3855 3420 50  0000 R CNN
-F 2 "Diodes_SMD:D_SOD-123" H 3900 3325 50  0001 C CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" H 3900 3325 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 3900 3500 50  0001 C CNN
 	1    3900 3500
 	0    -1   -1   0   
@@ -1054,7 +1054,7 @@ U 1 1 5DA3E979
 P 4350 3500
 F 0 "D29" V 4396 3420 50  0000 R CNN
 F 1 "1N4148W" V 4305 3420 50  0000 R CNN
-F 2 "Diodes_SMD:D_SOD-123" H 4350 3325 50  0001 C CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" H 4350 3325 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 4350 3500 50  0001 C CNN
 	1    4350 3500
 	0    -1   -1   0   
@@ -1065,7 +1065,7 @@ U 1 1 5DA3E97F
 P 4750 3500
 F 0 "D2A1" V 4796 3420 50  0000 R CNN
 F 1 "1N4148W" V 4705 3420 50  0000 R CNN
-F 2 "Diodes_SMD:D_SOD-123" H 4750 3325 50  0001 C CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" H 4750 3325 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 4750 3500 50  0001 C CNN
 	1    4750 3500
 	0    -1   -1   0   
@@ -1076,7 +1076,7 @@ U 1 1 5DA3E985
 P 5150 3500
 F 0 "D2B1" V 5196 3420 50  0000 R CNN
 F 1 "1N4148W" V 5105 3420 50  0000 R CNN
-F 2 "Diodes_SMD:D_SOD-123" H 5150 3325 50  0001 C CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" H 5150 3325 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 5150 3500 50  0001 C CNN
 	1    5150 3500
 	0    -1   -1   0   
@@ -1087,7 +1087,7 @@ U 1 1 5DA3E98B
 P 5550 3500
 F 0 "D2C1" V 5596 3420 50  0000 R CNN
 F 1 "1N4148W" V 5505 3420 50  0000 R CNN
-F 2 "Diodes_SMD:D_SOD-123" H 5550 3325 50  0001 C CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" H 5550 3325 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 5550 3500 50  0001 C CNN
 	1    5550 3500
 	0    -1   -1   0   
@@ -1098,7 +1098,7 @@ U 1 1 5DA3E991
 P 5950 3500
 F 0 "D2D1" V 5996 3420 50  0000 R CNN
 F 1 "1N4148W" V 5905 3420 50  0000 R CNN
-F 2 "Diodes_SMD:D_SOD-123" H 5950 3325 50  0001 C CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" H 5950 3325 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 5950 3500 50  0001 C CNN
 	1    5950 3500
 	0    -1   -1   0   
@@ -1109,7 +1109,7 @@ U 1 1 5DA3E99D
 P 6750 3500
 F 0 "D2F1" V 6796 3420 50  0000 R CNN
 F 1 "1N4148W" V 6705 3420 50  0000 R CNN
-F 2 "Diodes_SMD:D_SOD-123" H 6750 3325 50  0001 C CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" H 6750 3325 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 6750 3500 50  0001 C CNN
 	1    6750 3500
 	0    -1   -1   0   
@@ -1142,7 +1142,7 @@ U 1 1 5DA3E9AF
 P 7250 3500
 F 0 "D2G1" V 7296 3420 50  0000 R CNN
 F 1 "1N4148W" V 7205 3420 50  0000 R CNN
-F 2 "Diodes_SMD:D_SOD-123" H 7250 3325 50  0001 C CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" H 7250 3325 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 7250 3500 50  0001 C CNN
 	1    7250 3500
 	0    -1   -1   0   
@@ -1153,7 +1153,7 @@ U 1 1 5DA3E9B5
 P 7700 3500
 F 0 "D2H1" V 7746 3420 50  0000 R CNN
 F 1 "1N4148W" V 7655 3420 50  0000 R CNN
-F 2 "Diodes_SMD:D_SOD-123" H 7700 3325 50  0001 C CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" H 7700 3325 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 7700 3500 50  0001 C CNN
 	1    7700 3500
 	0    -1   -1   0   
@@ -1241,7 +1241,7 @@ U 1 1 5DA48EA3
 P 650 4350
 F 0 "D30" V 696 4270 50  0000 R CNN
 F 1 "1N4148W" V 605 4270 50  0000 R CNN
-F 2 "Diodes_SMD:D_SOD-123" H 650 4175 50  0001 C CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" H 650 4175 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 650 4350 50  0001 C CNN
 	1    650  4350
 	0    -1   -1   0   
@@ -1252,7 +1252,7 @@ U 1 1 5DA48EAF
 P 1500 4350
 F 0 "D32" V 1546 4270 50  0000 R CNN
 F 1 "1N4148W" V 1455 4270 50  0000 R CNN
-F 2 "Diodes_SMD:D_SOD-123" H 1500 4175 50  0001 C CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" H 1500 4175 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 1500 4350 50  0001 C CNN
 	1    1500 4350
 	0    -1   -1   0   
@@ -1263,7 +1263,7 @@ U 1 1 5DA48EB5
 P 1900 4350
 F 0 "D33" V 1946 4270 50  0000 R CNN
 F 1 "1N4148W" V 1855 4270 50  0000 R CNN
-F 2 "Diodes_SMD:D_SOD-123" H 1900 4175 50  0001 C CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" H 1900 4175 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 1900 4350 50  0001 C CNN
 	1    1900 4350
 	0    -1   -1   0   
@@ -1274,7 +1274,7 @@ U 1 1 5DA48EBB
 P 2300 4350
 F 0 "D34" V 2346 4270 50  0000 R CNN
 F 1 "1N4148W" V 2255 4270 50  0000 R CNN
-F 2 "Diodes_SMD:D_SOD-123" H 2300 4175 50  0001 C CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" H 2300 4175 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 2300 4350 50  0001 C CNN
 	1    2300 4350
 	0    -1   -1   0   
@@ -1285,7 +1285,7 @@ U 1 1 5DA48EC1
 P 2700 4350
 F 0 "D35" V 2746 4270 50  0000 R CNN
 F 1 "1N4148W" V 2655 4270 50  0000 R CNN
-F 2 "Diodes_SMD:D_SOD-123" H 2700 4175 50  0001 C CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" H 2700 4175 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 2700 4350 50  0001 C CNN
 	1    2700 4350
 	0    -1   -1   0   
@@ -1296,7 +1296,7 @@ U 1 1 5DA48EC7
 P 3050 4350
 F 0 "D36" V 3096 4270 50  0000 R CNN
 F 1 "1N4148W" V 3005 4270 50  0000 R CNN
-F 2 "Diodes_SMD:D_SOD-123" H 3050 4175 50  0001 C CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" H 3050 4175 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 3050 4350 50  0001 C CNN
 	1    3050 4350
 	0    -1   -1   0   
@@ -1307,7 +1307,7 @@ U 1 1 5DA48ECD
 P 3500 4350
 F 0 "D37" V 3546 4270 50  0000 R CNN
 F 1 "1N4148W" V 3455 4270 50  0000 R CNN
-F 2 "Diodes_SMD:D_SOD-123" H 3500 4175 50  0001 C CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" H 3500 4175 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 3500 4350 50  0001 C CNN
 	1    3500 4350
 	0    -1   -1   0   
@@ -1384,7 +1384,7 @@ U 1 1 5DA48F03
 P 3900 4350
 F 0 "D38" V 3946 4270 50  0000 R CNN
 F 1 "1N4148W" V 3855 4270 50  0000 R CNN
-F 2 "Diodes_SMD:D_SOD-123" H 3900 4175 50  0001 C CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" H 3900 4175 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 3900 4350 50  0001 C CNN
 	1    3900 4350
 	0    -1   -1   0   
@@ -1395,7 +1395,7 @@ U 1 1 5DA48F09
 P 4350 4350
 F 0 "D39" V 4396 4270 50  0000 R CNN
 F 1 "1N4148W" V 4305 4270 50  0000 R CNN
-F 2 "Diodes_SMD:D_SOD-123" H 4350 4175 50  0001 C CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" H 4350 4175 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 4350 4350 50  0001 C CNN
 	1    4350 4350
 	0    -1   -1   0   
@@ -1406,7 +1406,7 @@ U 1 1 5DA48F0F
 P 4750 4350
 F 0 "D3A1" V 4796 4270 50  0000 R CNN
 F 1 "1N4148W" V 4705 4270 50  0000 R CNN
-F 2 "Diodes_SMD:D_SOD-123" H 4750 4175 50  0001 C CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" H 4750 4175 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 4750 4350 50  0001 C CNN
 	1    4750 4350
 	0    -1   -1   0   
@@ -1417,7 +1417,7 @@ U 1 1 5DA48F15
 P 5150 4350
 F 0 "D3B1" V 5196 4270 50  0000 R CNN
 F 1 "1N4148W" V 5105 4270 50  0000 R CNN
-F 2 "Diodes_SMD:D_SOD-123" H 5150 4175 50  0001 C CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" H 5150 4175 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 5150 4350 50  0001 C CNN
 	1    5150 4350
 	0    -1   -1   0   
@@ -1428,7 +1428,7 @@ U 1 1 5DA48F1B
 P 5550 4350
 F 0 "D3C1" V 5596 4270 50  0000 R CNN
 F 1 "1N4148W" V 5505 4270 50  0000 R CNN
-F 2 "Diodes_SMD:D_SOD-123" H 5550 4175 50  0001 C CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" H 5550 4175 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 5550 4350 50  0001 C CNN
 	1    5550 4350
 	0    -1   -1   0   
@@ -1439,7 +1439,7 @@ U 1 1 5DA48F2D
 P 6750 4350
 F 0 "D3F1" V 6796 4270 50  0000 R CNN
 F 1 "1N4148W" V 6705 4270 50  0000 R CNN
-F 2 "Diodes_SMD:D_SOD-123" H 6750 4175 50  0001 C CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" H 6750 4175 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 6750 4350 50  0001 C CNN
 	1    6750 4350
 	0    -1   -1   0   
@@ -1472,7 +1472,7 @@ U 1 1 5DA48F3F
 P 7250 4350
 F 0 "D3G1" V 7296 4270 50  0000 R CNN
 F 1 "1N4148W" V 7205 4270 50  0000 R CNN
-F 2 "Diodes_SMD:D_SOD-123" H 7250 4175 50  0001 C CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" H 7250 4175 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 7250 4350 50  0001 C CNN
 	1    7250 4350
 	0    -1   -1   0   
@@ -1560,7 +1560,7 @@ U 1 1 5DA56977
 P 650 5150
 F 0 "D40" V 696 5070 50  0000 R CNN
 F 1 "1N4148W" V 605 5070 50  0000 R CNN
-F 2 "Diodes_SMD:D_SOD-123" H 650 4975 50  0001 C CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" H 650 4975 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 650 5150 50  0001 C CNN
 	1    650  5150
 	0    -1   -1   0   
@@ -1571,7 +1571,7 @@ U 1 1 5DA56983
 P 1500 5150
 F 0 "D42" V 1546 5070 50  0000 R CNN
 F 1 "1N4148W" V 1455 5070 50  0000 R CNN
-F 2 "Diodes_SMD:D_SOD-123" H 1500 4975 50  0001 C CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" H 1500 4975 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 1500 5150 50  0001 C CNN
 	1    1500 5150
 	0    -1   -1   0   
@@ -1582,7 +1582,7 @@ U 1 1 5DA56989
 P 1900 5150
 F 0 "D43" V 1946 5070 50  0000 R CNN
 F 1 "1N4148W" V 1855 5070 50  0000 R CNN
-F 2 "Diodes_SMD:D_SOD-123" H 1900 4975 50  0001 C CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" H 1900 4975 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 1900 5150 50  0001 C CNN
 	1    1900 5150
 	0    -1   -1   0   
@@ -1593,7 +1593,7 @@ U 1 1 5DA5698F
 P 2300 5150
 F 0 "D44" V 2346 5070 50  0000 R CNN
 F 1 "1N4148W" V 2255 5070 50  0000 R CNN
-F 2 "Diodes_SMD:D_SOD-123" H 2300 4975 50  0001 C CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" H 2300 4975 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 2300 5150 50  0001 C CNN
 	1    2300 5150
 	0    -1   -1   0   
@@ -1604,7 +1604,7 @@ U 1 1 5DA56995
 P 2700 5150
 F 0 "D45" V 2746 5070 50  0000 R CNN
 F 1 "1N4148W" V 2655 5070 50  0000 R CNN
-F 2 "Diodes_SMD:D_SOD-123" H 2700 4975 50  0001 C CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" H 2700 4975 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 2700 5150 50  0001 C CNN
 	1    2700 5150
 	0    -1   -1   0   
@@ -1615,7 +1615,7 @@ U 1 1 5DA5699B
 P 3050 5150
 F 0 "D46" V 3096 5070 50  0000 R CNN
 F 1 "1N4148W" V 3005 5070 50  0000 R CNN
-F 2 "Diodes_SMD:D_SOD-123" H 3050 4975 50  0001 C CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" H 3050 4975 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 3050 5150 50  0001 C CNN
 	1    3050 5150
 	0    -1   -1   0   
@@ -1626,7 +1626,7 @@ U 1 1 5DA569A1
 P 3500 5150
 F 0 "D47" V 3546 5070 50  0000 R CNN
 F 1 "1N4148W" V 3455 5070 50  0000 R CNN
-F 2 "Diodes_SMD:D_SOD-123" H 3500 4975 50  0001 C CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" H 3500 4975 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 3500 5150 50  0001 C CNN
 	1    3500 5150
 	0    -1   -1   0   
@@ -1692,7 +1692,7 @@ U 1 1 5DA569D7
 P 3900 5150
 F 0 "D48" V 3946 5070 50  0000 R CNN
 F 1 "1N4148W" V 3855 5070 50  0000 R CNN
-F 2 "Diodes_SMD:D_SOD-123" H 3900 4975 50  0001 C CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" H 3900 4975 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 3900 5150 50  0001 C CNN
 	1    3900 5150
 	0    -1   -1   0   
@@ -1703,7 +1703,7 @@ U 1 1 5DA569DD
 P 4350 5150
 F 0 "D49" V 4396 5070 50  0000 R CNN
 F 1 "1N4148W" V 4305 5070 50  0000 R CNN
-F 2 "Diodes_SMD:D_SOD-123" H 4350 4975 50  0001 C CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" H 4350 4975 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 4350 5150 50  0001 C CNN
 	1    4350 5150
 	0    -1   -1   0   
@@ -1714,7 +1714,7 @@ U 1 1 5DA569E3
 P 4750 5150
 F 0 "D4A1" V 4796 5070 50  0000 R CNN
 F 1 "1N4148W" V 4705 5070 50  0000 R CNN
-F 2 "Diodes_SMD:D_SOD-123" H 4750 4975 50  0001 C CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" H 4750 4975 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 4750 5150 50  0001 C CNN
 	1    4750 5150
 	0    -1   -1   0   
@@ -1725,7 +1725,7 @@ U 1 1 5DA569E9
 P 5150 5150
 F 0 "D4B1" V 5196 5070 50  0000 R CNN
 F 1 "1N4148W" V 5105 5070 50  0000 R CNN
-F 2 "Diodes_SMD:D_SOD-123" H 5150 4975 50  0001 C CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" H 5150 4975 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 5150 5150 50  0001 C CNN
 	1    5150 5150
 	0    -1   -1   0   
@@ -1736,7 +1736,7 @@ U 1 1 5DA569EF
 P 5550 5150
 F 0 "D4C1" V 5596 5070 50  0000 R CNN
 F 1 "1N4148W" V 5505 5070 50  0000 R CNN
-F 2 "Diodes_SMD:D_SOD-123" H 5550 4975 50  0001 C CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" H 5550 4975 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 5550 5150 50  0001 C CNN
 	1    5550 5150
 	0    -1   -1   0   
@@ -1758,7 +1758,7 @@ U 1 1 5DA56A13
 P 7250 5150
 F 0 "D4G1" V 7296 5070 50  0000 R CNN
 F 1 "1N4148W" V 7205 5070 50  0000 R CNN
-F 2 "Diodes_SMD:D_SOD-123" H 7250 4975 50  0001 C CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" H 7250 4975 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 7250 5150 50  0001 C CNN
 	1    7250 5150
 	0    -1   -1   0   
@@ -1813,7 +1813,7 @@ U 1 1 5DA675C1
 P 650 6000
 F 0 "D50" V 696 5920 50  0000 R CNN
 F 1 "1N4148W" V 605 5920 50  0000 R CNN
-F 2 "Diodes_SMD:D_SOD-123" H 650 5825 50  0001 C CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" H 650 5825 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 650 6000 50  0001 C CNN
 	1    650  6000
 	0    -1   -1   0   
@@ -1824,7 +1824,7 @@ U 1 1 5DA675C7
 P 1100 6000
 F 0 "D51" V 1146 5920 50  0000 R CNN
 F 1 "1N4148W" V 1055 5920 50  0000 R CNN
-F 2 "Diodes_SMD:D_SOD-123" H 1100 5825 50  0001 C CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" H 1100 5825 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 1100 6000 50  0001 C CNN
 	1    1100 6000
 	0    -1   -1   0   
@@ -1835,7 +1835,7 @@ U 1 1 5DA675CD
 P 1500 6000
 F 0 "D52" V 1546 5920 50  0000 R CNN
 F 1 "1N4148W" V 1455 5920 50  0000 R CNN
-F 2 "Diodes_SMD:D_SOD-123" H 1500 5825 50  0001 C CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" H 1500 5825 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 1500 6000 50  0001 C CNN
 	1    1500 6000
 	0    -1   -1   0   
@@ -1846,7 +1846,7 @@ U 1 1 5DA675DF
 P 2700 6000
 F 0 "D55" V 2746 5920 50  0000 R CNN
 F 1 "1N4148W" V 2655 5920 50  0000 R CNN
-F 2 "Diodes_SMD:D_SOD-123" H 2700 5825 50  0001 C CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" H 2700 5825 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 2700 6000 50  0001 C CNN
 	1    2700 6000
 	0    -1   -1   0   
@@ -1901,7 +1901,7 @@ U 1 1 5DA67621
 P 3900 6000
 F 0 "D58" V 3946 5920 50  0000 R CNN
 F 1 "1N4148W" V 3855 5920 50  0000 R CNN
-F 2 "Diodes_SMD:D_SOD-123" H 3900 5825 50  0001 C CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" H 3900 5825 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 3900 6000 50  0001 C CNN
 	1    3900 6000
 	0    -1   -1   0   
@@ -1912,7 +1912,7 @@ U 1 1 5DA67627
 P 4350 6000
 F 0 "D59" V 4396 5920 50  0000 R CNN
 F 1 "1N4148W" V 4305 5920 50  0000 R CNN
-F 2 "Diodes_SMD:D_SOD-123" H 4350 5825 50  0001 C CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" H 4350 5825 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 4350 6000 50  0001 C CNN
 	1    4350 6000
 	0    -1   -1   0   
@@ -1923,7 +1923,7 @@ U 1 1 5DA6762D
 P 4750 6000
 F 0 "D5A1" V 4796 5920 50  0000 R CNN
 F 1 "1N4148W" V 4705 5920 50  0000 R CNN
-F 2 "Diodes_SMD:D_SOD-123" H 4750 5825 50  0001 C CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" H 4750 5825 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 4750 6000 50  0001 C CNN
 	1    4750 6000
 	0    -1   -1   0   
@@ -1934,7 +1934,7 @@ U 1 1 5DA6764B
 P 6750 6000
 F 0 "D5F1" V 6796 5920 50  0000 R CNN
 F 1 "1N4148W" V 6705 5920 50  0000 R CNN
-F 2 "Diodes_SMD:D_SOD-123" H 6750 5825 50  0001 C CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" H 6750 5825 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 6750 6000 50  0001 C CNN
 	1    6750 6000
 	0    -1   -1   0   
@@ -1967,7 +1967,7 @@ U 1 1 5DA6765D
 P 7250 6000
 F 0 "D5G1" V 7296 5920 50  0000 R CNN
 F 1 "1N4148W" V 7205 5920 50  0000 R CNN
-F 2 "Diodes_SMD:D_SOD-123" H 7250 5825 50  0001 C CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" H 7250 5825 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 7250 6000 50  0001 C CNN
 	1    7250 6000
 	0    -1   -1   0   
@@ -1978,7 +1978,7 @@ U 1 1 5DA67663
 P 7700 6000
 F 0 "D5H1" V 7746 5920 50  0000 R CNN
 F 1 "1N4148W" V 7655 5920 50  0000 R CNN
-F 2 "Diodes_SMD:D_SOD-123" H 7700 5825 50  0001 C CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" H 7700 5825 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 7700 6000 50  0001 C CNN
 	1    7700 6000
 	0    -1   -1   0   
@@ -1989,7 +1989,7 @@ U 1 1 5DA783C3
 P 7700 4350
 F 0 "D3H1" V 7746 4270 50  0000 R CNN
 F 1 "1N4148W" V 7655 4270 50  0000 R CNN
-F 2 "Diodes_SMD:D_SOD-123" H 7700 4175 50  0001 C CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" H 7700 4175 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 7700 4350 50  0001 C CNN
 	1    7700 4350
 	0    -1   -1   0   
@@ -2560,11 +2560,11 @@ Wire Wire Line
 Text GLabel 7450 1100 1    50   Input ~ 0
 A9
 Text GLabel 7900 1100 1    50   Input ~ 0
-B7
+B0
 Text GLabel 6950 1100 1    50   Input ~ 0
 A10
 Text GLabel 8250 2800 2    50   Input ~ 0
-B6
+B5
 Text GLabel 8250 3650 2    50   Input ~ 0
 B9
 Connection ~ 1300 1450
@@ -2677,7 +2677,7 @@ U 1 1 5DCE7247
 P 1100 4350
 F 0 "D31" V 1146 4270 50  0000 R CNN
 F 1 "1N4148W" V 1055 4270 50  0000 R CNN
-F 2 "Diodes_SMD:D_SOD-123" H 1100 4175 50  0001 C CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" H 1100 4175 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 1100 4350 50  0001 C CNN
 	1    1100 4350
 	0    -1   -1   0   
@@ -2699,7 +2699,7 @@ U 1 1 5DCE7253
 P 1100 5150
 F 0 "D41" V 1146 5070 50  0000 R CNN
 F 1 "1N4148W" V 1055 5070 50  0000 R CNN
-F 2 "Diodes_SMD:D_SOD-123" H 1100 4975 50  0001 C CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" H 1100 4975 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 1100 5150 50  0001 C CNN
 	1    1100 5150
 	0    -1   -1   0   
@@ -2743,4 +2743,78 @@ Text GLabel 4100 1100 1    50   Input ~ 0
 B4
 Text GLabel 8250 6150 2    50   Input ~ 0
 A7
+$Comp
+L Connector:Conn_01x04_Female J1
+U 1 1 5DA0ADCA
+P 9600 5650
+F 0 "J1" H 9628 5626 50  0000 L CNN
+F 1 "Conn_01x04_Female" H 9628 5535 50  0000 L CNN
+F 2 "Connectors:Fan_Pin_Header_Straight_1x04" H 9600 5650 50  0001 C CNN
+F 3 "~" H 9600 5650 50  0001 C CNN
+	1    9600 5650
+	1    0    0    -1  
+$EndComp
+Text GLabel 9400 5750 0    50   Input ~ 0
+B7
+Text GLabel 9400 5650 0    50   Input ~ 0
+B6
+$Comp
+L power:GND #PWR0106
+U 1 1 5DA70B17
+P 9400 5850
+F 0 "#PWR0106" H 9400 5600 50  0001 C CNN
+F 1 "GND" V 9405 5722 50  0000 R CNN
+F 2 "" H 9400 5850 50  0001 C CNN
+F 3 "" H 9400 5850 50  0001 C CNN
+	1    9400 5850
+	0    1    1    0   
+$EndComp
+$Comp
+L power:+3.3V #PWR0107
+U 1 1 5DAE6AC0
+P 9400 5550
+F 0 "#PWR0107" H 9400 5400 50  0001 C CNN
+F 1 "+3.3V" V 9415 5678 50  0000 L CNN
+F 2 "" H 9400 5550 50  0001 C CNN
+F 3 "" H 9400 5550 50  0001 C CNN
+	1    9400 5550
+	0    -1   -1   0   
+$EndComp
+Text GLabel 10000 1250 1    50   Input ~ 0
+A3
+$Comp
+L Connector:Conn_01x03_Female J2
+U 1 1 5DBADB66
+P 9850 4700
+F 0 "J2" H 9878 4726 50  0000 L CNN
+F 1 "Conn_01x03_Female" H 9878 4635 50  0000 L CNN
+F 2 "Connectors:PINHEAD1-3" H 9850 4700 50  0001 C CNN
+F 3 "~" H 9850 4700 50  0001 C CNN
+	1    9850 4700
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+5V #PWR0108
+U 1 1 5DBAF42E
+P 9650 4600
+F 0 "#PWR0108" H 9650 4450 50  0001 C CNN
+F 1 "+5V" V 9665 4728 50  0000 L CNN
+F 2 "" H 9650 4600 50  0001 C CNN
+F 3 "" H 9650 4600 50  0001 C CNN
+	1    9650 4600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:GND #PWR0109
+U 1 1 5DBB0DCF
+P 9650 4800
+F 0 "#PWR0109" H 9650 4550 50  0001 C CNN
+F 1 "GND" V 9655 4672 50  0000 R CNN
+F 2 "" H 9650 4800 50  0001 C CNN
+F 3 "" H 9650 4800 50  0001 C CNN
+	1    9650 4800
+	0    1    1    0   
+$EndComp
+Text GLabel 9650 4700 0    50   Input ~ 0
+A3
 $EndSCHEMATC
